@@ -1,2 +1,2 @@
-# M1_Project_Utility
+# M1_ElectricityBillCalc_Utility
 Mini Project
