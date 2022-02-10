@@ -1,4 +1,5 @@
 #Project Goal
+
 Project entitled “Electricity Billing System” aims is to generate
 electricity bill with all the charges and penalty. Manual system that is
 employed is extremely laborious and quite inadequate. It only makes
@@ -13,9 +14,9 @@ designing the form and that make up the user interface. Adding visual
 basic application code to the form and the objects such as buttons and
 text boxes on them and adding any required support code in additional
 modular.
+
 ##Advantages
-Access is included in the professional and developer editions of
-Microsoft office.
+
 The overall project report is divided into some parts. These parts are
 further divided into their subparts. In the parts we have described the
 purpose, scope of the project, objective of the project i.e. approach
@@ -26,5 +27,7 @@ debugging of the system are discussed in very detail. We have also
 provided the names of the books from which we have taken guidance
 to complete the work. Last section contains the matter about the overall
 work performed and the efforts taken to complete the project.
+
 ##Conclusion
+
 This project is to understand the concepts of file handling and for understanding the concepts of C Programming language. By the completion of this project now I can know how to record the details of employee and displaying their details on the console application. I have completed all the necessary project structure format and submitted in GitHub Repository and executed the code successfully.
