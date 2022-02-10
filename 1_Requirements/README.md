@@ -30,6 +30,16 @@ Opportunities: We know that we mostly use pen and paper for calculation. So tech
 
 Threats: Slower growth in an innovation always threat for the company in this dynamic world.
 
+# 4’W and 1’H
+
+What: Electricity bill calculator**
+
+Where: School, Science, domestic, industries, Technology
+
+When: Need for calculation.
+
+How: Calculates the user input as number of loads and gives the output.
+
 # High Level Requirements:
 
 |`      `**ID**|`                 `**Description**|`            `**Status**|
@@ -51,17 +61,5 @@ Threats: Slower growth in an innovation always threat for the company in this dy
 |LL02\_HL02|` `Calculates electricity bill at urban areas|Implemented |
 |LL03\_HL03|` `Calculates total load at domestics places|Implemented |
 |LL04|` `Calculates total unit consumed at domestics places| Implemented |
-
-
-
-# 4’W and 1’H
-
-What: Electricity bill calculator**
-
-Where: School, Science, domestic, industries, Technology
-
-When: Need for calculation.
-
-How: Calculates the user input as number of loads and gives the output.
 
 
