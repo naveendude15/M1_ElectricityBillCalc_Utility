@@ -30,13 +30,13 @@
 
 # 4’W and 1’H
 
-* What: Electricity bill calculator
+* What: Calculator for electricity bills
 
-* Where: School, Science, domestic, industries, Technology
+* Where: Science, Domestic, Industry, and Technology
 
-* When: Need for calculation.
+* When: Calculation are needed.
 
-* How: Calculates the user input as number of loads and gives the output.
+* How: Calculates the amount of loads entered by the user and displays the result.
 
 # High Level Requirements:
 
