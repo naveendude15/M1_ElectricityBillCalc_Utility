@@ -26,11 +26,6 @@ which used for developing this software.
 * It includes the topics like the problems with the existing system and the functionality of the organization. Introduction to tools, design, coding, testing and debugging of the system are discussed in very detail. 
 * We have also provided the names of the books from which we have taken guidance to complete the work. Last section contains the matter about the overall work performed and the efforts taken to complete the project.
 
-# Reference
 
-* https://codeforwin.org/2015/05/c-program-to-calculate-electricity-bill.html
-* https://www.w3resource.com/c-programming-exercises/conditional-statement/c-conditional-statement-exercises-19.php
-* https://tutorialsinhand.com/tutorials/c-programs/c-conditional-programs/c-program-to-calculate-electric-bill-charge.aspx
-* https://www.codingbroz.com/c-program-to-calculate-electricity-bill/
 
 
