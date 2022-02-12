@@ -31,7 +31,7 @@ void main()
 			Rural();
 			break;
 		default:
-			printf("SORRY INVALID CHOICE!\n");
+			printf("SORRY WRONG CHOICE!\n");
 			printf("PLEASE CHOOSE FROM 1 or 2\n");
 		}
 		getch();
