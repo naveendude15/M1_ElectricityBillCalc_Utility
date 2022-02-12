@@ -28,6 +28,13 @@ provided the names of the books from which we have taken guidance
 to complete the work. Last section contains the matter about the overall
 work performed and the efforts taken to complete the project.
 
+# Reference
+
+* https://codeforwin.org/2015/05/c-program-to-calculate-electricity-bill.html
+* https://www.w3resource.com/c-programming-exercises/conditional-statement/c-conditional-statement-exercises-19.php
+* https://tutorialsinhand.com/tutorials/c-programs/c-conditional-programs/c-program-to-calculate-electric-bill-charge.aspx
+* https://www.codingbroz.com/c-program-to-calculate-electricity-bill/
+
 ## Conclusion
 
 * This project is to understand the concepts of file handling and for understanding the concepts of C Programming language. By the completion of this project now I can know how to record the details of employee and displaying their details on the console application. I have completed all the necessary project structure format and submitted in GitHub Repository and executed the code successfully.
