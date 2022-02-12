@@ -30,7 +30,7 @@ provided the names of the books from which we have taken guidance
 to complete the work. Last section contains the matter about the overall
 work performed and the efforts taken to complete the project.
 
-# Code Quality   # Code Grade
+# Code Quality, Code Grade
 ![code quality score](https://api.codiga.io/project/31248/score/svg)   ![code quality score](https://api.codiga.io/project/31248/status/svg)
 
 
