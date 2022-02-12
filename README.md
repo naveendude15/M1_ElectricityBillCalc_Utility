@@ -1,5 +1,8 @@
 # M1_ElectricityBillCalc_Utility
 
+# Code Quality, Code Grade
+![code quality score](https://api.codiga.io/project/31248/score/svg)   ![code quality score](https://api.codiga.io/project/31248/status/svg)
+
 # Project Goal
 
 * Project entitled “Electricity Billing System” aims is to generate
@@ -30,8 +33,6 @@ provided the names of the books from which we have taken guidance
 to complete the work. Last section contains the matter about the overall
 work performed and the efforts taken to complete the project.
 
-# Code Quality, Code Grade
-![code quality score](https://api.codiga.io/project/31248/score/svg)   ![code quality score](https://api.codiga.io/project/31248/status/svg)
 
 
 
