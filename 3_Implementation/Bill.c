@@ -70,7 +70,7 @@ void Rural()
     {
         amount = E.unitsconsumed * 6.80;
     }
-    printf("****Electricity Bill****\n\n");
+    printf("Electricity Bill\n\n");
     printf("Name : %s\n", E.name);
     printf("In Urban, your electricity bill is: %d\n", amount);
     printf("Units you consumed per month: %d\n", E.unitsconsumed);
