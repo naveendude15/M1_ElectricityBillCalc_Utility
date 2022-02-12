@@ -2,7 +2,7 @@
 Mini Project
 
 # Code Quality
-https://api.codiga.io/project/31248/score/svg
+![code quality score](https://api.codiga.io/project/31248/score/svg)
 
 # Code Grade
-https://api.codiga.io/project/31248/status/svg
+![code quality score](https://api.codiga.io/project/31248/status/svg)
