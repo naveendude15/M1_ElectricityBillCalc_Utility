@@ -16,7 +16,7 @@
 
 # Defining System:
 
-* Using a testing algorithm, design and test the operations of an electricity bill calculator.
+* We can use this system and find the electic bills using testing algorithm, design and test the operations of an electricity bill calculator and we can make the interface user friendly ao that even the people who have less technical skills could also understand.
 
 # SWOT analysis:
 
@@ -38,26 +38,28 @@
 
 * How: Calculates the amount of loads entered by the user and displays the result.
 
-# High Level Requirements:
+# High level Requirements:
 
 |`      `**ID**|`                 `**Description**|`            `**Status**|
 | :- | :- | :- |
-|`    `HL01|` `Electricity bill at Urban areas if(units<30) | Implemented |
-|`    `HL02|` `Electricity bill at Urban areas if(units>30 && units <100)| Implemented |
-|`    `HL03|` `Electricity bill at Urban areas if(units>101 && units <200) | Implemented |
-|`    `HL04|` `Electricity bill at Urban areas if(units<200)| Implemented |
-|`    `HL05|` `Electricity bill at Rural areas if(units<30) | Implemented |
-|`    `HL06|` `Electricity bill at Rural areas if(units>30 && units <100)| Implemented |
-|`    `HL07|` `Electricity bill at Rural areas if(units>101 && units <200) | Implemented |
-|`    `HL08|` `Electricity bill at Rural areas if(units<200)| Implemented |
+|HL01|` `Calculates electricity bill at rural areas| Implemented |
+|HL02|` `Calculates electricity bill at urban areas|Implemented |
+|HL03|` `Calculates total load at domestics places|Implemented |
+|HL04|` `Calculates total unit consumed at domestics places| Implemented |
 
-# Low level Requirements:
+# Low Level Requirements:
 
 |`      `**ID**|`                 `**Description**|`            `**Status**|
 | :- | :- | :- |
-|LL01\_HL01|` `Calculates electricity bill at rural areas| Implemented |
-|LL02\_HL02|` `Calculates electricity bill at urban areas|Implemented |
-|LL03\_HL03|` `Calculates total load at domestics places|Implemented |
-|LL04|` `Calculates total unit consumed at domestics places| Implemented |
+|`    `L01|` `Electricity bill at Urban areas if(units<30) | Implemented |
+|`    `L02|` `Electricity bill at Urban areas if(units>30 && units <100)| Implemented |
+|`    `L03|` `Electricity bill at Urban areas if(units>101 && units <200) | Implemented |
+|`    `L04|` `Electricity bill at Urban areas if(units<200)| Implemented |
+|`    `L05|` `Electricity bill at Rural areas if(units<30) | Implemented |
+|`    `L06|` `Electricity bill at Rural areas if(units>30 && units <100)| Implemented |
+|`    `L07|` `Electricity bill at Rural areas if(units>101 && units <200) | Implemented |
+|`    `L08|` `Electricity bill at Rural areas if(units<200)| Implemented |
+
+
 
 
