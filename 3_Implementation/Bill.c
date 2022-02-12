@@ -3,7 +3,7 @@
 #include<conio.h>
 #include<string.h>
 #include<Windows.h>
-#include"MainElectricityBill.h"
+#include"MaElectricBill.h"
 
 void details()
 {
