@@ -4,7 +4,7 @@
 #include <string.h>
 #include <Windows.h>
 #include "MainElectricityBill.h"
-#include "ElectricityBill.h"
+#include "Bill.h"
 void Urban();
 void Rural();
 void main()
@@ -13,7 +13,7 @@ void main()
 	int option;
 	do
 	{
-		printf("****Electricity Bill****\n");
+		printf("Electric Bill\n");
 		printf("Please enter your choice from below (1-2):\n");
 		printf("1. Urban\n");
 		printf("2. Rural\n");
