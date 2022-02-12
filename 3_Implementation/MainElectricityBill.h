@@ -18,5 +18,5 @@ struct ElectricBill
 	int phonenumber[10];
 };
 
-struct ElectricBill B;
+struct Bill E;
 #endif
