@@ -1,8 +1,7 @@
-# M1_ElectricityBillCalc_Utility
-
 # Code Quality, Code Grade
 ![code quality score](https://api.codiga.io/project/31248/score/svg)   ![code quality score](https://api.codiga.io/project/31248/status/svg)
 
+# M1_ElectricityBillCalc_Utility
 # Project Goal
 
 * Project entitled “Electricity Billing System” aims is to generate
@@ -22,16 +21,10 @@ modular.
 
 ## Advantages
 
-* The overall project report is divided into some parts. These parts are
-further divided into their subparts. In the parts we have described the
-purpose, scope of the project, objective of the project i.e. approach
-which used for developing this software. It includes the topics like the
-problems with the existing system and the functionality of the
-organization. Introduction to tools, design, coding, testing and
-debugging of the system are discussed in very detail. We have also
-provided the names of the books from which we have taken guidance
-to complete the work. Last section contains the matter about the overall
-work performed and the efforts taken to complete the project.
+* The overall project report is divided into some parts. These parts are further divided into their subparts. In the parts we have described the purpose, scope of the project, objective of the project i.e. approach
+which used for developing this software. 
+* It includes the topics like the problems with the existing system and the functionality of the organization. Introduction to tools, design, coding, testing and debugging of the system are discussed in very detail. 
+* We have also provided the names of the books from which we have taken guidance to complete the work. Last section contains the matter about the overall work performed and the efforts taken to complete the project.
 
 # Reference
 
