@@ -58,11 +58,15 @@ work performed and the efforts taken to complete the project.
 
 # 4’W and 1’H
 
+* Who: To impove the people's life
+
 * What: Calculator for electricity bills
 
 * Where: Science, Domestic, Industry, and Technology
 
 * When: Calculation are needed.
+
+* Why: To make electric bill calculations handy
 
 * How: Calculates the amount of loads entered by the user and displays the result.
 
