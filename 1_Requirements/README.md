@@ -28,7 +28,9 @@
 
 * Threats: Slower growth in an innovation always threat for the company in this dynamic world.
 
-# 4’W and 1’H
+# 5’W and 1’H
+
+* Who: To improve the people's life
 
 * What: Calculator for electricity bills
 
@@ -36,7 +38,10 @@
 
 * When: Calculation are needed.
 
-* How: Calculates the amount of loads entered by the user and displays the result.
+* Why: To make electric bill calculations handy
+
+* How: Calculates the number of loads entered by the user and displays the result.
+
 
 # High level Requirements:
 
